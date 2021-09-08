@@ -1,5 +1,3 @@
-# CPSC304 Project Milestone 3
-
 # Proposal:
 
 [Project Descirption](https://docs.google.com/document/d/1MhQmnG1k4P7-hEiT-2Q_1LzQxzp2RAr5KlFQ6Mz-4fU/edit#)
